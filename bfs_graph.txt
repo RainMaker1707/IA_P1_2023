@@ -1,0 +1,85 @@
+
+./instances/i01
+* Execution time:	 56.389637891999996
+* Path cost to goal:	 13 moves
+* #Nodes explored:	 208077
+* Queue size at goal:	 450205
+
+		************
+
+./instances/i02
+* Execution time:	 1.2563829770000001
+* Path cost to goal:	 8 moves
+* #Nodes explored:	 6070
+* Queue size at goal:	 17518
+
+		************
+
+./instances/i03
+* Execution time:	 0.855998194
+* Path cost to goal:	 8 moves
+* #Nodes explored:	 4118
+* Queue size at goal:	 12516
+
+		************
+
+./instances/i04
+* Execution time:	 6.281999444
+* Path cost to goal:	 10 moves
+* #Nodes explored:	 28334
+* Queue size at goal:	 73885
+
+		************
+
+./instances/i05
+* Execution time:	 8.862494046
+* Path cost to goal:	 8 moves
+* #Nodes explored:	 21755
+* Queue size at goal:	 131559
+
+		************
+
+./instances/i06
+* Execution time:	 6.908258771
+* Path cost to goal:	 7 moves
+* #Nodes explored:	 18050
+* Queue size at goal:	 105411
+
+		************
+
+./instances/i07
+* Execution time:	 6.055096315
+* Path cost to goal:	 7 moves
+* #Nodes explored:	 14196
+* Queue size at goal:	 86069
+
+		************
+
+./instances/i08
+* Execution time:	 37.157334524
+* Path cost to goal:	 7 moves
+* #Nodes explored:	 56938
+* Queue size at goal:	 528852
+
+		************
+
+./instances/i09
+* Execution time:	 37.620832825
+* Path cost to goal:	 7 moves
+* #Nodes explored:	 55583
+* Queue size at goal:	 498972
+
+		************
+
+./instances/i10
+* Execution time:	 30.112575513
+* Path cost to goal:	 6 moves
+* #Nodes explored:	 42437
+* Queue size at goal:	 410851
+
+		************
+
+./instances/iGOAL
+
+		************
+

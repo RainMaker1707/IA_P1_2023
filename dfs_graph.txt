@@ -1,0 +1,49 @@
+
+./instances/i01
+
+		************
+
+./instances/i02
+
+		************
+
+./instances/i03
+
+		************
+
+./instances/i04
+
+		************
+
+./instances/i05
+
+		************
+
+./instances/i06
+
+		************
+
+./instances/i07
+
+		************
+
+./instances/i08
+
+		************
+
+./instances/i09
+
+		************
+
+./instances/i10
+
+		************
+
+./instances/iGOAL
+* Execution time:	 9.923999999994493e-06
+* Path cost to goal:	 0 moves
+* #Nodes explored:	 1
+* Queue size at goal:	 0
+
+		************
+
